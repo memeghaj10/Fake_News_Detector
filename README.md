@@ -11,3 +11,5 @@ Just a small overview :-
 2. Then, I have initialized a `PassiveAggressive` Classifier and fit the model.
 
 3. In the end, the `accuracy score` and the `confusion matrix` tells how well the model fares.
+
+The data I used for training and testing is a csv file : [news.csv](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view)
