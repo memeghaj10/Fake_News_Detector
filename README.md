@@ -8,7 +8,7 @@ Just a small overview :-
 
 1. Using sklearn I have built a `TfidfVectorizer` in our dataset.
 
-2. Then, I have initialized a `PassiveAggressive` Classifier and fit the model.
+2. Then, I have initialized a `PassiveAggressiveClassifier` and fit the model.
 
 3. In the end, the `accuracy score` and the `confusion matrix` tells how well the model fares.
 
